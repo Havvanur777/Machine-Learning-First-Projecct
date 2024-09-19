@@ -31,3 +31,6 @@ KNN sınıflandırıcısı için hiperparametre optimizasyonu Grid Search yönte
 
 ## Notlar
 Bu proje Kaggle üzerinde çalıştırıldı ve tüm kodlar Kaggle Notebook'unda test edilmiştir. Kodları kendi bilgisayarınızda çalıştırırken performans sorunlarıyla karşılaşabilirsiniz.
+
+## Kaggle linki 
+https://www.kaggle.com/code/havvanurkarakaya/the-movies-dataset-first-machine-learning-project 
